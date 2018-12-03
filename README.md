@@ -8,7 +8,7 @@
 ```
 ## Project
 
-> Petmily 애완견 분양 웹사이트 // https://github.com/ziwoo73/Petmily
+> Petmily 애완견 분양 웹사이트 // https://github.com/ziwoo/Petmily
 
 > AtrBox 미술관 전시 웹사이트 // 
 
