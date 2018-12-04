@@ -11,7 +11,7 @@
 
 > Petmily 애완견 분양 웹사이트 // https://github.com/ziwoo/Petmily
 
-> AtrBox 미술관 전시 웹사이트 // 
+> AtrBox 미술관 전시 웹사이트 // https://github.com/ziwoo/ArtBox
 
 ## Activity
 * 멀티미디어공학 전공
