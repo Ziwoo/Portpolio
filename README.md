@@ -1,6 +1,6 @@
 # Portfolio
 
-# 발전하는 개발자 정지우 입니다!
+#  개발자 정지우 입니다!
 
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 
