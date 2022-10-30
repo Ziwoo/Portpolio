@@ -14,7 +14,8 @@
 > AtrBox 미술관 전시 웹사이트 // https://github.com/ziwoo/ArtBox
 
 ## Activity
-* 멀티미디어공학 전공
+* 구글&생활코딩 코딩야학 5기
+* B.S in Multimedia Engr.
 * 정보처리기사
 * [NCS] 기업이 요구하는 JAVA 웹개발자 과정 수료
 * 이베이코리아 글로벌 서포터즈
