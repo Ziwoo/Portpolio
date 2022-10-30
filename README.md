@@ -14,8 +14,8 @@
 > AtrBox 미술관 전시 웹사이트 // https://github.com/ziwoo/ArtBox
 
 ## Activity
-* M.S in Imaging Engr.
-* B.S in Multimedia Engr.
+* M.S in Imaging Engineering.
+* B.S in Multimedia Engineering.
 * 정보처리기사
 * [NCS] 기업이 요구하는 JAVA 웹개발자 과정 수료
 * 이베이코리아 글로벌 서포터즈
