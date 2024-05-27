@@ -5,7 +5,7 @@
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 
 
-Virtual Reality Content Developer (2022.11 ~ Now)    
+Game & Virtual Reality Content Developer (2022.11 ~ Now)    
 M.S in Department of Imaging Engineering, Chung-Ang University(2020 - 2022)
 
 ## Research Interest
