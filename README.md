@@ -39,7 +39,7 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 
 ## Awards
 
-* 2022 Korea Computer Congress **Best Paper Award**
+* **Best Paper Award**, Korea Computer Congress, 2022 
 
 ## Certificate
 
