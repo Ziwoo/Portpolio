@@ -13,6 +13,7 @@ M.S in Department of Imaging Engineering, Chung-Ang University(2020 - 2022)
 > - Computer Vision
 > - Machine & Deep Learning
 > - Image & Video Recognition
+> - Virtual Reality
 
 ## Publications
 
