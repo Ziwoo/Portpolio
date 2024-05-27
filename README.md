@@ -32,17 +32,13 @@ DY Kim, JW Jeong, YH Chai
 Moving Image & Technology (MINT) 2 (1), 14-17
 
 ## Awards
+
 * 2022 KCC Best Paper Award, Joint-weight Scaling based Augmentation of 3D Skeleton Data for Human Activity Recognition
-
-## Web Project
-
-> Petmily // Pet adoption website // https://github.com/ziwoo/Petmily
-
-> AtrBox // Museum exhibition website // https://github.com/ziwoo/ArtBox
 
 ## Certificate
 
 * Engineer Information Processing
+
 
 ## Experience
 
@@ -52,6 +48,11 @@ Research Assistant, Virtual Environment Lab., Sep. 2020 - Aug. 2022.
 * eBay Korea Global Supporters
 * Google & Life Coding Coding Night School 5th Class
 
+## Web Project
+
+> Petmily // Pet adoption website // https://github.com/ziwoo/Petmily
+
+> AtrBox // Museum exhibition website // https://github.com/ziwoo/ArtBox
   
     
   
