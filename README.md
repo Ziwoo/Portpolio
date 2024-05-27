@@ -31,6 +31,9 @@ Moving Image & Technology (MINT) 2 (3), 6-10
 DY Kim, JW Jeong, YH Chai
 Moving Image & Technology (MINT) 2 (1), 14-17
 
+## Awards
+* 2022 KCC Best Paper Award, Joint-weight Scaling based Augmentation of 3D Skeleton Data for Human Activity Recognition
+
 ## Web Project
 
 > Petmily // Pet adoption website // https://github.com/ziwoo/Petmily
@@ -38,9 +41,11 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 > AtrBox // Museum exhibition website // https://github.com/ziwoo/ArtBox
 
 ## Certificate
+
 * Engineer Information Processing
 
 ## Experience
+
 * Graduate School of Advanced Imaging Science, Multimedia & Film, Chung-Ang University, Seoul, Korea
 Research Assistant, Virtual Environment Lab., Sep. 2020 - Aug. 2022. 
 * [NCS] Completion of the JAVA web developer course required by companies
