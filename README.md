@@ -15,9 +15,9 @@ Department of Image Science and Art, Chung-Ang University, Seoul
 
 ## Project
 
-> Petmily 애완견 분양 웹사이트 // https://github.com/ziwoo/Petmily
+> Petmily // Pet adoption website // https://github.com/ziwoo/Petmily
 
-> AtrBox 미술관 전시 웹사이트 // https://github.com/ziwoo/ArtBox
+> AtrBox // Museum exhibition website // https://github.com/ziwoo/ArtBox
 
 ## Certificate
 * Engineer Information Processing
