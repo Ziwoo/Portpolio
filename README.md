@@ -51,7 +51,7 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 
 ## Experience
 
-* [NCS] Completion of the JAVA web developer course required by companies
+* [NCS] Completion of the JAVA web developer course
 * eBay Korea Global Supporters
 * Google & Life Coding Coding Night School 5th Class
 
