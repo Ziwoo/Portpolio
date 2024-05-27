@@ -6,7 +6,7 @@
 
 
 Virtual Reality Content Developer (2022.11 ~ Now)    
-M.S in Imaging Engineering, Virtual Environment Lab   
+M.S in Imaging Engineering,    
 Department of Image Science and Art, Chung-Ang University, Seoul
 
 ## Research Interest
