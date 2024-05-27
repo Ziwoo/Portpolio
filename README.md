@@ -1,6 +1,6 @@
 # Portfolio
 
-#  JiWoo Jeong
+##  JiWoo Jeong
 
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 
@@ -33,7 +33,7 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 
 ## Awards
 
-* 2022 KCC **우수논문상**, Joint-weight Scaling based Augmentation of 3D Skeleton Data for Human Activity Recognition
+* 2022 KCC 한국컴퓨터종합학술대회 **우수논문상**, Joint-weight Scaling based Augmentation of 3D Skeleton Data for Human Activity Recognition
 
 ## Certificate
 
