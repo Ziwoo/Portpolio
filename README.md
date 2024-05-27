@@ -4,8 +4,8 @@
 
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 
-M.S in Imaging Engineering   
-Digital Imaging, Department of Image Science and Art, Chung-Ang University, Seoul
+M.S in Imaging Engineering, Virtual Environment Lab   
+Department of Image Science and Art, Chung-Ang University, Seoul
 
 ## Research Interest
 
@@ -19,13 +19,13 @@ Digital Imaging, Department of Image Science and Art, Chung-Ang University, Seou
 
 > AtrBox 미술관 전시 웹사이트 // https://github.com/ziwoo/ArtBox
 
+## Certificate
+* Engineer Information Processing
+
 ## Activity
-* M.S in Imaging Engineering.
-* B.S in Multimedia Engineering.
-* 정보처리기사
-* [NCS] 기업이 요구하는 JAVA 웹개발자 과정 수료
-* 이베이코리아 글로벌 서포터즈
-* 구글&생활코딩 코딩야학 5기
+* [NCS] Completion of the JAVA web developer course required by companies
+* eBay Korea Global Supporters
+* Google & Life Coding Coding Night School 5th Class
 
   
     
