@@ -21,7 +21,7 @@ Korean Institute of Information Scientists and Engineers, 1,477 - 1,479 (3page)
 
 * Sensor-Jacket based Human Activity Recognition for Interaction in Metaverse Environment
 DY Kim, JY Ryu, JW Jeong, , YH Chai
-Korean Institute of Information Scientists and Engineers, 1,477 - 1,479 (3page)
+Korean Institute of Information Scientists and Engineers, 1,501 - 1,503 (3page)
 
 * A Study on Basic Human Activity Recognition Based on Sensor Jacket for Interaction in Metaverse Environment
 DY Kim, JW Jeong, YH Chai
