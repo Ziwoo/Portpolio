@@ -35,8 +35,8 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 
 ## Research Project
 
-* BK21+ 인공지능-콘텐츠 미래산업 교육연구단
 * SW스타랩 광역 ·고속 ·연속 동작인식을 위한 공간적 행위기반 다면 상호작용
+* BK21+ 인공지능-콘텐츠 미래산업 교육연구단
 
 ## Awards
 
