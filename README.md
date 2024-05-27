@@ -4,7 +4,7 @@
 
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 
-M.S in Imaging Engineering
+M.S in Imaging Engineering/n
 Digital Imaging, Department of Image Science and Art, Chung-Ang University, Seoul
 
 ## Research Interest
