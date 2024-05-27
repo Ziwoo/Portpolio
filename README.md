@@ -13,7 +13,25 @@ Department of Image Science and Art, Chung-Ang University, Seoul
 > - Machine & Deep Learning
 > - Image & Video Recognition
 
-## Project
+## Publications
+
+* Joint-weight Scaling based Augmentation of 3D Skeleton Data for Human Activity Recognition
+JW Jeong, SS Park, DY Kim, YH Chai
+Korean Institute of Information Scientists and Engineers, 1,477 - 1,479 (3page)
+
+* Sensor-Jacket based Human Activity Recognition for Interaction in Metaverse Environment
+DY Kim, JY Ryu, JW Jeong, , YH Chai
+Korean Institute of Information Scientists and Engineers, 1,477 - 1,479 (3page)
+
+* A Study on Basic Human Activity Recognition Based on Sensor Jacket for Interaction in Metaverse Environment
+DY Kim, JW Jeong, YH Chai
+Moving Image & Technology (MINT) 2 (3), 6-10
+
+* Study on the Motion Definition for Various Motion Deformation and Implementation through IMU Sensor in Virtual Environment
+DY Kim, JW Jeong, YH Chai
+Moving Image & Technology (MINT) 2 (1), 14-17
+
+## Web Project
 
 > Petmily // Pet adoption website // https://github.com/ziwoo/Petmily
 
