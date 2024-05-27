@@ -51,8 +51,6 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 
 ## Experience
 
-* Graduate School of Advanced Imaging Science, Multimedia & Film, Chung-Ang University, Seoul, Korea
-Research Assistant, Virtual Environment Lab., Sep. 2020 - Aug. 2022. 
 * [NCS] Completion of the JAVA web developer course required by companies
 * eBay Korea Global Supporters
 * Google & Life Coding Coding Night School 5th Class
