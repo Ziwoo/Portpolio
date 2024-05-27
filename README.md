@@ -5,11 +5,11 @@
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 
 ``` 
-Research Interest
+## Research Interest
 
-Computer Vision
-Machine & Deep Learning
-Image & Video Recognition
+> - Computer Vision
+> - Machine & Deep Learning
+> - Image & Video Recognition
 ``` 
 > - 개발기간 : 2022.05.18-25
 
