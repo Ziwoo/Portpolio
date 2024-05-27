@@ -46,7 +46,7 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 
 ## Certificate
 
-* Engineer Information Processing
+* 정보처리기사
 
 
 ## Experience
