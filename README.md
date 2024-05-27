@@ -6,8 +6,7 @@
 
 
 Virtual Reality Content Developer (2022.11 ~ Now)    
-M.S in Imaging Engineering,    
-Department of Image Science and Art, Chung-Ang University(2020 - 2022)
+M.S in Department of Imaging Engineering, Chung-Ang University(2020 - 2022)
 
 ## Research Interest
 
