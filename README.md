@@ -33,7 +33,7 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 
 ## Awards
 
-* 2022 KCC Best Paper Award, Joint-weight Scaling based Augmentation of 3D Skeleton Data for Human Activity Recognition
+* 2022 KCC **우수논문상**, Joint-weight Scaling based Augmentation of 3D Skeleton Data for Human Activity Recognition
 
 ## Certificate
 
