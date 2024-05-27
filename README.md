@@ -5,7 +5,7 @@
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 
 
-Virtual Reality Content Developer (2022.11 ~ Now)
+Virtual Reality Content Developer (2022.11 ~ Now)    
 M.S in Imaging Engineering, Virtual Environment Lab   
 Department of Image Science and Art, Chung-Ang University, Seoul
 
