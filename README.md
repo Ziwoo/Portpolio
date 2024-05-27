@@ -9,7 +9,6 @@
 > - Computer Vision
 > - Machine & Deep Learning
 > - Image & Video Recognition
-> - 개발기간 : 2022.05.18-25
 
 ## Project
 
